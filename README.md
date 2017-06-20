@@ -1,0 +1,2 @@
+# ALGORITHM
+For Learning Purpose
