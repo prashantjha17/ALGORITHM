@@ -167,7 +167,7 @@ public class TreeNode
 				{
 					while(list.get(i) != 100 && i < list.size())
 					{
-						System.out.println(list.get(i));
+						System.out.println("Testing=="+list.get(i));
 						i++;
 					}
 					i++;
